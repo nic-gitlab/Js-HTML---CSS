@@ -1,0 +1,48 @@
+/* Exceeds attempt */
+body {
+  background-color:azure;
+  text-align: center;
+}
+
+.image {
+  width: 35%;
+  display: block;
+  margin: auto;
+}
+
+.headers {
+  font-weight: bold;
+  color: maroon;
+  text-align: center;
+}
+
+.slogan-section {
+  border: 5px solid maroon;
+  margin: 5px;
+}
+
+.core-section {
+  margin: 5px;
+}
+
+.about-section {
+  margin: 5px;
+}
+
+.social-links {
+  margin: 5px;
+}
+
+.contact-info {
+  margin: 5px;
+}
+
+.info {
+  margin:0;
+}
+
+.core-list {
+  margin-left: 30%;
+  width:32%;
+  text-align: center;
+}
